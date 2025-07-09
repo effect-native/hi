@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "module": "index.ts",
   "type": "module",
-  "description": "A simple hello package",
+  "description": "A simple hello package from Effect Native (no affiliation with Effect TS)",
   "author": "",
   "license": "MIT",
   "exports": {
